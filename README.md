@@ -26,3 +26,8 @@ Just a few small ideas what could be added if I would try to make this into a ga
 - Use the vertex coloring and replace the setting (For example every person plays a season of the year; the most powerful one will change the scenery: winter would make a snowfloor, the background would change and it would begin to snow etc
 - Maybe convert the controls to mobile ones (this would mean max 2 players though or an online feature)
 - Make a single player where the player has to defend an area of colored tiles against different moving enemies that color everything black (attack in waves)
+
+ <br />
+Font used in the game:     Montserrat  (http://www.fontsquirrel.com/fonts/montserrat) <br />
+Prototype sounds:          sfxr (http://www.drpetter.se/project_sfxr.html) <br />
+Engine:                    Unity Engine (https://unity3d.com/)
