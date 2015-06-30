@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa004195b37ebae4d92a4785788a2eae
+timeCreated: 1435538946
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ColorPanel: {instanceID: 0}
+  - PercentageRing: {fileID: 2100000, guid: fc2e98b3a29d89843ad71aa1819550f6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

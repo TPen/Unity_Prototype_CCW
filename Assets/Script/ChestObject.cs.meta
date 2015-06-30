@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 205ccc76580aa1249b9e02d7f5e7d984
+timeCreated: 1435188214
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ExplosionPrefab: {fileID: 166968, guid: d3e8682d6daefae479646b63f4c13993, type: 2}
+  - BuffPrefab: {fileID: 109694, guid: 59c4accd2a7e7fd4aa5cda4e6145b162, type: 2}
+  - StunPrefab: {fileID: 191006, guid: 22281d8944d8ed34c9e8df861ba4ff15, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

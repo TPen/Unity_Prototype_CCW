@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7b0f3bf4a1cea14695603dd6a2c6a5c
+timeCreated: 1435277791
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ChestPrefab: {fileID: 109994, guid: 2d2f79cac55c74a43a0d06f060490c7e, type: 2}
+  - ScoreBoard: {instanceID: 0}
+  - PlayerPrefab: {fileID: 180022, guid: 4fb5fcdbb8c67104fa9d95d110459689, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
