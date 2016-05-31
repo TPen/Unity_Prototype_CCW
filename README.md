@@ -1,7 +1,7 @@
 ## Unity Prototype Color Cube Wars
 
 ![alt tag](https://raw.github.com/TPen/Unity_Prototype_CCW/master/Example_Image.jpg)
-Weplayer of the prototype: http://portfolio.felixkate.net/CCW_prototype.html
+Weplayer of the prototype: http://portfolio.felixkate.net/ccw-prototype.shtml
 
 
 A small one man prototype made with unity in about 22h. I decided to upload this to give an insight into my workflow (and learn about manipulating an objects vertex colors during runtime). This is uploaded under the MIT license so feel free to use what you want for your own projects.
